@@ -11,7 +11,7 @@ Play it online:
 
 Choose a `backlog_prioritization` then `Setup` -> `Go`. 
 
-*ps: online version can be slow, recommended `total_market_size` < 200.*
+***warning**: online version can be slow, recommended `total_market_size` < 100.*
 
 Or clone this repo and play it on [Netlogo](https://ccl.northwestern.edu/netlogo/) for full speed.
 
