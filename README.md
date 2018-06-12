@@ -9,7 +9,7 @@ Is customer feedback important? Let's check!
 Play it online: 
 <https://dalssoft.github.io/CFSim/web/model.html> 
 
-Press `Setup` -> `Go`
+Choose a `backlog_prioritization` then `Setup` -> `Go`. 
 
 *ps: online version can be slow, recommended `total_market_size` < 200.*
 
